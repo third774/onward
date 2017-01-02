@@ -33,3 +33,11 @@ testem.log
 #System Files
 .DS_Store
 Thumbs.db
+favicon.ico
+index.html
+inline.bundle.js
+inline.bundle.map
+main.bundle.js
+main.bundle.map
+styles.bundle.js
+styles.bundle.map

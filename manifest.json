@@ -4,7 +4,7 @@
   "version": "0.0.1",
   "description": "A plain text description",
   "chrome_url_overrides": {
-    "newtab": "/dist/index.html"
+    "newtab": "/index.html"
   },
   "homepage_url": "https://github.com/third774/onward",
   "offline_enabled": true,
