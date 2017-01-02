@@ -1,0 +1,17 @@
+{
+  "manifest_version": 2,
+  "name": "Onward",
+  "version": "0.0.1",
+  "description": "A plain text description",
+  "chrome_url_overrides": {
+    "newtab": "/dist/index.html"
+  },
+  "homepage_url": "https://github.com/third774/onward",
+  "offline_enabled": true,
+  "omnibox": {
+    "keyword": "onward"
+  },
+  "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'",
+  "update_url": "http://path/to/updateInfo.xml",
+  "version_name": "pre-alpha"
+}
